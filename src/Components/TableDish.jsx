@@ -111,7 +111,7 @@ function TableDish() {
   ];
 
   return (
-    <div className="ml-5">
+    <div className="ml-2">
       <div className="md:w-3/4 max-w-3xl">
         <div className="overflow-x-auto">
           <ul className="flex border-b whitespace-nowrap">

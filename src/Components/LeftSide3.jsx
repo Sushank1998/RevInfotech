@@ -22,7 +22,7 @@ function LeftSide3() {
   return (
     <div className='mt-[60px]'>
       <div className="flex items-center justify-center">
-        <div className="text-[#C1C2C4] transform -rotate-90 xl:text-8xl sm:text-6xl font-bold text-center -ml-[90px]"><h1>Drink
+        <div className="text-[#C1C2C4] transform -rotate-90 xl:text-8xl sm:text-6xl font-bold text-center -ml-[90px] mt-[10%]" ><h1>Drink
         </h1></div>
         <div>
           {menuItems.map((item, index) => (
